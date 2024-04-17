@@ -43,5 +43,5 @@ The `FMCW_Radar.m` MATLAB script processes the radar data to analyze the impact 
 
 ## Visual Outputs
 
-The MATLAB script produces several plots that illustrate the radar signal characteristics and the effectiveness of different filtering approaches. Here's how you can include images in the README:
+The MATLAB script produces several plots that illustrate the radar signal characteristics and the effectiveness of different filtering approaches. these images are presented in the file named images.
 
